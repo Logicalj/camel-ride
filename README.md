@@ -1,2 +1,2 @@
 # camel-ride
-Basic Learning project for Camle
+Basic Learning project for Camel
